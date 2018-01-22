@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-### /Global Music/Media/
+### /Music&Media Blog/
 <table>
   <tr>
      <th><img src="https://github.com/andrewneil/Portfolio/blob/master/images/music%20blog.PNG" width="250" height="250"></th>
