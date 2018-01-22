@@ -4,7 +4,7 @@
 ### eCommerce:
 <table>
   <tr>
-    <th><img src="https://github.com/andrewneil/Portfolio/tree/master/images/industrial.png"></th>
+    <th><img src="https://github.com/andrewneil/Portfolio/blob/master/images/industrial.PNG"></th>
   </tr>
   <tr>
     <th><a href="https://www.kpaulindustrial.com">kpaul industrial</a></th>
