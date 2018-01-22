@@ -7,5 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Syntax highlighted code block
 
+<ul>
+  <li>a</li>
+  <li>b</li>
+</ul>
+
 
 ```
