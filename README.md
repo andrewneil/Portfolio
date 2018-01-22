@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### eCommerce:
 <table>
   <tr>
-    <th>kpaulindustrial</th>
+    <th><a href="www.kpaulindustrial></th>
     <th>kpaulsewp</th>
   </tr>
 </table>
