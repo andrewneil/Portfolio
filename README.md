@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/andrewneil/Portfolio/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### eCommerce//
+### eCommerce:
 <table>
   <tr>
     <th>kpaulindustrial</th>
@@ -12,14 +12,14 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
   </tr>
 </table>
 
-### Property Management//
+### Property Management:
 <table>
   <tr>
     <th>triarii317</th>
   </tr>
 </table>
 
-### Global Music/Media//
+### Global Music/Media:
 <table>
   <tr>
     <th>lemonwire</th>
