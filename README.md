@@ -1,6 +1,14 @@
 ## My Work://
 
 
+### Test
+<div class="view hm-zoom">
+    <img src="https://mdbootstrap.com/img/Photos/Horizontal/People/6-col/img%20(7).jpg" class="img-fluid " alt="">
+    <div class="mask flex-center">
+        <p class="white-text">Zoom effect</p>
+    </div>
+</div>
+
 ### /eCommerce/
 <table>
   <tr>
