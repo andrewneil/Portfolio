@@ -7,10 +7,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ```markdown
 Syntax highlighted code block
 
-<ul>
-  <li>a</li>
-  <li>b</li>
-</ul>
-
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 ```
