@@ -4,17 +4,11 @@ You can use the [editor on GitHub](https://github.com/andrewneil/Portfolio/edit/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<ul>
-  <li>a</li>
-  </ul>
+### eCommerce //
+<table>
+  <tr>
+    <th>kpaulindustrial</th>
+    <th>kpaulsewp</th>
+  </tr>
+</table>
 
-```markdown
-Syntax highlighted code block
-
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-```
