@@ -1,7 +1,7 @@
-## My Work//
+## My Work://
 
 
-### eCommerce:
+### /eCommerce/
 <table>
   <tr>
     <th><img src="https://github.com/andrewneil/Portfolio/blob/master/images/industrial.PNG" width="250" height="250"></th>
@@ -13,7 +13,7 @@
   </tr>
 </table>
 
-### Property Management:
+### /Property Management/
 <table>
   <tr>
      <th><img src="https://github.com/andrewneil/Portfolio/blob/master/images/property.PNG" width="250" height="250"></th>
@@ -23,7 +23,7 @@
   </tr>
 </table>
 
-### Global Music/Media:
+### /Global Music/Media/
 <table>
   <tr>
      <th><img src="https://github.com/andrewneil/Portfolio/blob/master/images/music%20blog.PNG" width="250" height="250"></th>
