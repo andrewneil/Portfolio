@@ -1,14 +1,6 @@
 ## My Work://
 
 
-### Test
-<div class="view hm-zoom">
-    <img src="" class="img-fluid " alt="">
-    <div class="mask flex-center">
-        <p class="white-text">Zoom effect</p>
-    </div>
-</div>
-
 ### /eCommerce/
 <table>
   <tr>
